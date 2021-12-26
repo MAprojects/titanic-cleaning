@@ -1,5 +1,4 @@
 # Titanic-cleaning
-This is a preprocesing of the data stage of the kaggle competition of Titanic.
 
 
 ## Preprocesado y limpieza de los datos del reto de Kaggle Titanic.
